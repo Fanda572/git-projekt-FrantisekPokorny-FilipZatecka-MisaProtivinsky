@@ -1,0 +1,16 @@
+# General
+.DS_Store
+.env
+
+# Web (Node.js / Frontend Build)
+node_modules/
+/dist/
+/build/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / Editor
+.vscode/
+.idea/
