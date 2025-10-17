@@ -9,6 +9,6 @@ for(int i = 0; i < pole.Length; i++)
 {
   rand = Next.(cislo, 10);
   pole[i] = rand;
+  document.getElementByID("text").innerHTML = $"Náhodné číslo na pozici [{i}] je " + rand;
 }
-
-
+document.getElementByID("smajlik").innerHTML = smajlik; // Velmi důležité pro funkčnost scriptu!!!
