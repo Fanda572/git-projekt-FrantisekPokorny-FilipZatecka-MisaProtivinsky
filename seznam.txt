@@ -1,2 +1,5 @@
 2d
 topdown
+story
+rpg
+fantasy
