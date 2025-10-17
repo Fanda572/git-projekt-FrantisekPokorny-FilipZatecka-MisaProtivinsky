@@ -6,10 +6,6 @@ $user = [
         "Username" => "Admin",
         "Password" = > "Heslo1"
     ],
-    "user1" => [
-        "Username" => "Test",
-        "Password" = > "OMG"
-    ],
 
 ]
 
